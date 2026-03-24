@@ -1,5 +1,5 @@
 {
   "name": "AI Content Pro",
   "description": "Professional AI-powered content generation for text and images.",
-  "requestFramePermissions": []
+  "requestFramePermissions": ["microphone", "geolocation"]
 }
